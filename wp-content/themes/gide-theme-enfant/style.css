@@ -1,0 +1,74 @@
+/*
+Theme Name:     GIDE Theme Enfant
+Description:    Theme enfant du theme GIDE (ascent)
+Author:         admin
+Template:       GIDE
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+/*Header*/
+
+.container {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
+
+@media (min-width: 768px)
+.container {
+    width: 0px !important;
+}
+
+@media (min-width: 992px)
+.container {
+    width: 0px !important;
+}
+
+@media (min-width: 1200px)
+.container {
+    width: 0px !important;
+}
+
+
+.deal_top{
+	margin-top: -40px !important;
+}
+.header-top {
+    background: #dad9d9 !important;
+}
+
+/*********************** Home ***********************/
+.main-content {
+    padding: 0px 0 !important;
+}
+
+/*Starter Kit*/
+.first_letter :first-letter{
+	color: #ea6a50;
+	font-weight: bold;
+	font-size: 160%;
+	vertical-align: -20%;
+}
+
+.titre_starterk{
+	font-size: 20px;
+	font-weight: 600;
+	color: #ea6a50;
+}
+table {
+    border: 0px solid #e0e0e0 !important; 
+}
+
+
+table tbody td {
+    font-size: 13px;
+    font-weight: 500;
+    color: #3a3c41;
+    border: 0px solid #e0e0e0 !important; 
+    padding: 0px 0px !important ; 
+}
+
+
+
